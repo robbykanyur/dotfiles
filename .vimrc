@@ -113,3 +113,4 @@ map <leader>gn :bn<cr>
 map <leader>gp :bp<cr>
 map <leader>gd :bd<cr>
 
+autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
