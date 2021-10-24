@@ -99,6 +99,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'maxmellon/vim-jsx-pretty'
 Plugin 'styled-components/vim-styled-components'
 Plugin 'jparise/vim-graphql'
+Plugin 'stephpy/vim-yaml'
 call vundle#end()
 
 map <Leader>ac :sp app/controllers/application_controller.rb<cr>
