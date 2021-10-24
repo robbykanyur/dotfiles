@@ -95,6 +95,10 @@ Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
+Plugin 'pangloss/vim-javascript'
+Plugin 'maxmellon/vim-jsx-pretty'
+Plugin 'styled-components/vim-styled-components'
+Plugin 'jparise/vim-graphql'
 call vundle#end()
 
 map <Leader>ac :sp app/controllers/application_controller.rb<cr>
