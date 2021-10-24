@@ -106,6 +106,7 @@ call vundle#end()
 map <Leader>ac :sp app/controllers/application_controller.rb<cr>
 map <leader>bb :!bundle install<cr>
 map <leader>sp :set paste<cr><esc>
+map <leader>ng :set syntax=nginx<cr><esc>
 map <leader>ap :set nopaste<cr><esc>
 map <leader>c :noh<cr>
 map <leader>pj :%!python -m json.tool<cr>
