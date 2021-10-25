@@ -101,7 +101,6 @@ Plugin 'styled-components/vim-styled-components'
 Plugin 'jparise/vim-graphql'
 Plugin 'stephpy/vim-yaml'
 Plugin 'chr4/nginx.vim'
-Plugin 'prettier/vim-prettier'
 call vundle#end()
 
 map <Leader>ac :sp app/controllers/application_controller.rb<cr>
